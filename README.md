@@ -1,5 +1,6 @@
 # Dynamic Inference for CIM-based DNN
 ## 目前為科技部大專學生研究計畫申請案 （指導教授：吳安宇 教授）
+### 細節請見 計畫書.pdf
 ## Progress-to-date:
 ### Implement multi-exit architecture to reduce nonideal hardware effect.
 ## Reference:
